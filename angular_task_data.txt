@@ -1,0 +1,11 @@
+Core-1234, Study 1, Mike, ER, A, 1, Test, Occupied, Lung, 1
+Core-1234, Study 1, David, ER, A, 1, Test, Occupied, Lung, 2, High
+Core-1234, Study 1, Michael, ER, A, 1, Test, Occupied, Lung, 0, None
+Core-1234, Study 1, Francisco, ER, A, 1, Test, Occupied, Lung, 1, None
+Core-1235, Study 1, Mike, ER, A, 2, Test, Occupied, Lung, 2, None
+Core-1235, Study 1, David, ER, A, 2, Test, Occupied, Lung, 2, Some comment
+Core-1235, Study 1, Michael, ER, A, 2, Test, Occupied, Lung, 2, None
+Core-1235, Study 1, Francisco, ER, A,2, Test, Occupied, Lung, 0, None
+Core-1587, Study 2, Mike, ER, J,2, Test, Occupied, Breast, 0, None
+Core-1587, Study 2, David, HER2, J,2, Test, Occupied, Breast, 1, Looks good
+Core-1299, Study 3, Francisco, e-Cad, B,2, Test, Occupied, Prostate, 2, None

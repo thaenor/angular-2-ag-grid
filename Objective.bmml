@@ -1,0 +1,20 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1280" measuredH="537" mockupW="1055" mockupH="522">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="225" y="15" w="1055" h="522" measuredW="1936" measuredH="1048" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//192.168.1.230%3A8080/secure/attachment/19935/19935_Lewis%27%20mockup%20without%20table.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="366" y="140" w="-1" h="-1" measuredW="890" measuredH="351" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%20ID%20%5E%2C%20TMA%20STUDY%2C%20SCORER%2C%20STAIN%2C%20ROW%2C%20COLUMN%2C%20CORE%20TYPE%2C%20CORE%20STATUS%2C%20TISSUE%20TYPE%2C%20INTENSITY%2C%20COMMENTS%0A%5B%5D%2C%20Core-1234%2C%20Study%201%2C%20Mike%2C%20ER%2C%20A%2C%201%2C%20Test%2C%20Occupied%2C%20Lung%2C%201%0A%5B%5D%2C%20Core-1234%2C%20Study%201%2C%20David%2C%20ER%2C%20A%2C%201%2C%20Test%2C%20Occupied%2C%20Lung%2C%202%2C%20High%0A%5B%5D%2C%20Core-1234%2C%20Study%201%2C%20Michael%2C%20ER%2C%20A%2C%201%2C%20Test%2C%20Occupied%2C%20Lung%2C%200%2C%20None%0A%5B%5D%2C%20Core-1234%2C%20Study%201%2C%20Francisco%2C%20ER%2C%20A%2C%201%2C%20Test%2C%20Occupied%2C%20Lung%2C%201%2C%20None%0A%5B%5D%2C%20Core-1235%2C%20Study%201%2C%20Mike%2C%20ER%2C%20A%2C%202%2C%20Test%2C%20Occupied%2C%20Lung%2C%202%2C%20None%0A%5B%5D%2C%20Core-1235%2C%20Study%201%2C%20David%2C%20ER%2C%20A%2C%202%2C%20Test%2C%20Occupied%2C%20Lung%2C%202%2C%20Some%20comment%0A%5B%5D%2C%20Core-1235%2C%20Study%201%2C%20Michael%2C%20ER%2C%20A%2C%202%2C%20Test%2C%20Occupied%2C%20Lung%2C%202%2C%20None%0A%5B%5D%2C%20Core-1235%2C%20Study%201%2C%20Francisco%2C%20ER%2C%20A%2C2%2C%20Test%2C%20Occupied%2C%20Lung%2C%200%2C%20None%0A%5B%5D%2C%20Core-1587%2C%20Study%202%2C%20Mike%2C%20ER%2C%20J%2C2%2C%20Test%2C%20Occupied%2C%20Breast%2C%200%2C%20None%0A%5B%5D%2C%20Core-1587%2C%20Study%202%2C%20David%2C%20HER2%2C%20J%2C2%2C%20Test%2C%20Occupied%2C%20Breast%2C%201%2C%20Looks%20good%0A%5B%5D%2C%20Core-1299%2C%20Study%203%2C%20Francisco%2C%20e-Cad%2C%20B%2C2%2C%20Test%2C%20Occupied%2C%20Prostate%2C%202%2C%20None</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1256" y="159" w="-1" h="332" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="1136" y="109" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quick%20Filter</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

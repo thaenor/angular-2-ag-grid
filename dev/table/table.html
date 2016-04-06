@@ -1,0 +1,30 @@
+<div class="col-md-12">
+    <ag-grid-ng2 #agGrid style="width: 100%; height: 250px;" class="ag-fresh"
+                 [gridOptions]="gridOptions"
+                 enableColResize
+                 enableSorting
+                 enableFilter
+                 groupHeaders
+                 suppressRowClickSelection
+                 toolPanelSuppressGroups
+                 toolPanelSuppressValues
+                 debug
+                 rowHeight="22"
+                 rowSelection="multiple">
+    </ag-grid-ng2 >
+</div>
+<br>
+<button (click)="agGrid.api.deselectAll()">Clear Selection</button><br>
+<button (click)="autoSizeAll()">Auto-Size All</button>
+<hr>
+<br>
+<input type="text" #message>
+<button (click)="onLog(message.value)">send</button>
+<hr>
+<http-test></http-test>
+<hr>
+<h4 class="text-center">This is just to say the json is working</h4>
+<p class="text-muted text-center">This is looping through the myData model and printing out some of its elements, pretty simple.</p>
+<ul>
+    <li *ngFor="#item of myData; #i = index">{{item.id}} - {{item.scorer}}</li>
+</ul>
